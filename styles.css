@@ -1,0 +1,72 @@
+.dark{
+    background-color: #1f2937;
+    border-bottom: -550px;
+    margin-top: -21px;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 500px;
+    
+
+}
+
+
+    link1{ 
+    ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    left: auto;
+    right: 400px;
+    }
+
+.link2{ 
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    left: auto;
+    right: 300px;
+    
+}
+
+.link3{
+        color:white;
+        font-family: #e5e7eb;
+        font-size: 18px;
+        position: absolute;
+        top: 0;
+        left: auto;
+        right: 200px;
+        
+}
+.headerlogo{
+    color: rgb(12, 11, 11);
+    font-family: #f9faf8;
+    font-size:24px;
+}
+
+.Hero{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    font-weight: 800;
+    box-sizing: ;
+
+}
+
+.signup{
+    background-color: #3882f6;
+    margin: auto;
+   padding-bottom: auto;
+}
+
+
+.randominformation{
+    font-size: 36px;
+    color:#1f2937;
+    font-weight:bolder;
+    font-weight:800;
+    text-align: center;
+}
