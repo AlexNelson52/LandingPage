@@ -30,8 +30,7 @@
     font-size: 18px;  
     padding-right: 2em;
     display: inline-block;
-    width:
-}
+    }
 
 .link3{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -92,24 +91,78 @@
     font-weight:bolder;
     font-weight:800;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 20px;
+    position: static;
 }
 
 .ray{
     width: 400px;
-    padding-left: 200px;
+    left: 250px;
     display: inline-block;
+    position: relative;
     
 }
 .con1{
-    font-size: 18px;
+    font-size: 16px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    padding-left: 200px;
+    position: relative;
+    left: 265px
 }
 .edreed{
     width: 400px;
     position: relative;
-    bottom: 325px;
+    bottom: 320px;
     left: 680px;
     display: inline-block;
+}
+.con2{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left: 690px;
+    bottom: 320px
+}
+.suggscontainer{
+    display: grid;
+    align-items: center;
+    column-gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    left: 1105px;
+    bottom: 738px;
+}
+.suggspic{
+width: 400px;
+height: 269px;
+
+}
+.suggstext{
+    position: relative;
+    right: 398px;
+    top: 160px;
+    inline-size: 400px;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.quote{
+    position: relative;
+    text-align: left;
+    right: 700px;
+    top: 300px;
+    inline-size: 780px;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.quote1{
+
+}
+
+.quotecontainer{
+    color:black;
+    padding: 500px;
+    
+    
 }
